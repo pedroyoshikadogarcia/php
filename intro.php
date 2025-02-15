@@ -9,7 +9,7 @@
          <?php 
             $x = 10;
             $y = 5.0;
-            $nome = "Yago Thadeu Pedrosa";
+            $nome = "Pedro Yoshikado Garcia";
             echo $x;
             echo "<br>" . $x . " Seloco mano " . $nome . "<br>";
             
